@@ -1,11 +1,10 @@
-from pdf import read_pdf_and_save_as_html
-from pdf_to_image import read_page_and_save_as_image
+from pdf import read_pdf_and_save_as_html, read_pdf_and_save_as_pdf
 
 
-pdf_file = "305140700-არტურ-კონან-დოილი-შერლოკ-ჰოლმსის-თავგადასავალი-1.pdf"
-output_file = "images"
+pdf_file = "C:\\Users\SosoT\OneDrive\Desktop\pdf_files\Meta_#HE9D4T3TC2_09-06-2023_$900.pdf"
+output_file = "result.pdf"
 
-read_page_and_save_as_image(pdf_file,output_file)
+read_pdf_and_save_as_pdf(pdf_file,output_file)
 
 
 

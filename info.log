@@ -3565,3 +3565,157 @@
 2023-09-17 01:54:01,063 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:524
 2023-09-17 01:54:01,076 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:524
 2023-09-17 01:54:01,076 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:images/image524.jpg
+2023-09-17 02:36:06,315 - pdfReader - INFO - pdf.py - 43 - Started reading PDF and saving as HTML.
+2023-09-17 02:36:06,316 - pdfReader - INFO - pdf.py - 56 - Temporary directory created at C:\Users\SosoT\AppData\Local\Temp\tmpy5k5rmy9
+2023-09-17 02:36:06,316 - pdfReader - INFO - pdf.py - 58 - Reading PDF from C:\Users\SosoT\OneDrive\Desktop\pdf_files\Meta_#HE9D4T3TC2_09-06-2023_$900.pdf
+2023-09-17 02:36:06,316 - pdfReader - INFO - pdf_to_image.py - 79 - start reading images from pdf file to save it as a image
+2023-09-17 02:36:06,316 - pdfReader - INFO - pdf_to_image.py - 56 - start reading pdf file:C:\Users\SosoT\OneDrive\Desktop\pdf_files\Meta_#HE9D4T3TC2_09-06-2023_$900.pdf
+2023-09-17 02:36:06,317 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:0
+2023-09-17 02:36:06,362 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:0
+2023-09-17 02:36:06,362 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpy5k5rmy9/image0.jpg
+2023-09-17 02:36:06,610 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:1
+2023-09-17 02:36:06,665 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:1
+2023-09-17 02:36:06,665 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpy5k5rmy9/image1.jpg
+2023-09-17 02:36:06,926 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:2
+2023-09-17 02:36:06,987 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:2
+2023-09-17 02:36:06,987 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpy5k5rmy9/image2.jpg
+2023-09-17 02:36:07,249 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:3
+2023-09-17 02:36:07,307 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:3
+2023-09-17 02:36:07,307 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpy5k5rmy9/image3.jpg
+2023-09-17 02:36:07,567 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:4
+2023-09-17 02:36:07,633 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:4
+2023-09-17 02:36:07,633 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpy5k5rmy9/image4.jpg
+2023-09-17 02:36:07,919 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:5
+2023-09-17 02:36:07,976 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:5
+2023-09-17 02:36:07,976 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpy5k5rmy9/image5.jpg
+2023-09-17 02:36:08,256 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:6
+2023-09-17 02:36:08,317 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:6
+2023-09-17 02:36:08,317 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpy5k5rmy9/image6.jpg
+2023-09-17 02:36:08,579 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:7
+2023-09-17 02:36:08,627 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:7
+2023-09-17 02:36:08,627 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpy5k5rmy9/image7.jpg
+2023-09-17 02:36:08,878 - pdfReader - INFO - pdf.py - 63 - 8 images will be processed.
+2023-09-17 02:36:19,987 - pdfReader - INFO - pdf.py - 66 - pdf processing was done
+2023-09-17 02:36:19,990 - pdfReader - INFO - pdf.py - 69 - Removing temporary directory C:\Users\SosoT\AppData\Local\Temp\tmpy5k5rmy9
+2023-09-17 02:37:01,469 - pdfReader - INFO - pdf.py - 43 - Started reading PDF and saving as HTML.
+2023-09-17 02:37:01,470 - pdfReader - INFO - pdf.py - 56 - Temporary directory created at C:\Users\SosoT\AppData\Local\Temp\tmpaovw6tl6
+2023-09-17 02:37:01,470 - pdfReader - INFO - pdf.py - 58 - Reading PDF from C:\Users\SosoT\OneDrive\Desktop\pdf_files\Meta_#HE9D4T3TC2_09-06-2023_$900.pdf
+2023-09-17 02:37:01,470 - pdfReader - INFO - pdf_to_image.py - 79 - start reading images from pdf file to save it as a image
+2023-09-17 02:37:01,470 - pdfReader - INFO - pdf_to_image.py - 56 - start reading pdf file:C:\Users\SosoT\OneDrive\Desktop\pdf_files\Meta_#HE9D4T3TC2_09-06-2023_$900.pdf
+2023-09-17 02:37:01,470 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:0
+2023-09-17 02:37:01,516 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:0
+2023-09-17 02:37:01,516 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpaovw6tl6/image0.jpg
+2023-09-17 02:37:01,764 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:1
+2023-09-17 02:37:01,818 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:1
+2023-09-17 02:37:01,818 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpaovw6tl6/image1.jpg
+2023-09-17 02:37:02,075 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:2
+2023-09-17 02:37:02,136 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:2
+2023-09-17 02:37:02,136 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpaovw6tl6/image2.jpg
+2023-09-17 02:37:02,398 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:3
+2023-09-17 02:37:02,456 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:3
+2023-09-17 02:37:02,456 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpaovw6tl6/image3.jpg
+2023-09-17 02:37:02,722 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:4
+2023-09-17 02:37:02,781 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:4
+2023-09-17 02:37:02,781 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpaovw6tl6/image4.jpg
+2023-09-17 02:37:03,047 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:5
+2023-09-17 02:37:03,104 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:5
+2023-09-17 02:37:03,105 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpaovw6tl6/image5.jpg
+2023-09-17 02:37:03,365 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:6
+2023-09-17 02:37:03,426 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:6
+2023-09-17 02:37:03,426 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpaovw6tl6/image6.jpg
+2023-09-17 02:37:03,687 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:7
+2023-09-17 02:37:03,734 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:7
+2023-09-17 02:37:03,734 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpaovw6tl6/image7.jpg
+2023-09-17 02:37:03,982 - pdfReader - INFO - pdf.py - 63 - 8 images will be processed.
+2023-09-17 02:37:15,016 - pdfReader - INFO - pdf.py - 66 - pdf processing was done
+2023-09-17 02:37:15,018 - pdfReader - INFO - pdf.py - 69 - Removing temporary directory C:\Users\SosoT\AppData\Local\Temp\tmpaovw6tl6
+2023-09-17 02:38:44,512 - pdfReader - INFO - pdf.py - 43 - Started reading PDF and saving as HTML.
+2023-09-17 02:38:44,514 - pdfReader - INFO - pdf.py - 56 - Temporary directory created at C:\Users\SosoT\AppData\Local\Temp\tmpq8a9k4cp
+2023-09-17 02:38:44,514 - pdfReader - INFO - pdf.py - 58 - Reading PDF from C:\Users\SosoT\OneDrive\Desktop\pdf_files\Meta_#HE9D4T3TC2_09-06-2023_$900.pdf
+2023-09-17 02:38:44,514 - pdfReader - INFO - pdf_to_image.py - 79 - start reading images from pdf file to save it as a image
+2023-09-17 02:38:44,515 - pdfReader - INFO - pdf_to_image.py - 56 - start reading pdf file:C:\Users\SosoT\OneDrive\Desktop\pdf_files\Meta_#HE9D4T3TC2_09-06-2023_$900.pdf
+2023-09-17 02:38:44,515 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:0
+2023-09-17 02:38:44,559 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:0
+2023-09-17 02:38:44,559 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpq8a9k4cp/image0.jpg
+2023-09-17 02:38:44,818 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:1
+2023-09-17 02:38:44,873 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:1
+2023-09-17 02:38:44,873 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpq8a9k4cp/image1.jpg
+2023-09-17 02:38:45,128 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:2
+2023-09-17 02:38:45,189 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:2
+2023-09-17 02:38:45,189 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpq8a9k4cp/image2.jpg
+2023-09-17 02:38:45,453 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:3
+2023-09-17 02:38:45,510 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:3
+2023-09-17 02:38:45,510 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpq8a9k4cp/image3.jpg
+2023-09-17 02:38:45,767 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:4
+2023-09-17 02:38:45,826 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:4
+2023-09-17 02:38:45,826 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpq8a9k4cp/image4.jpg
+2023-09-17 02:38:46,085 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:5
+2023-09-17 02:38:46,140 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:5
+2023-09-17 02:38:46,140 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpq8a9k4cp/image5.jpg
+2023-09-17 02:38:46,397 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:6
+2023-09-17 02:38:46,455 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:6
+2023-09-17 02:38:46,455 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpq8a9k4cp/image6.jpg
+2023-09-17 02:38:46,943 - pdfReader - INFO - pdf.py - 43 - Started reading PDF and saving as HTML.
+2023-09-17 02:38:46,944 - pdfReader - INFO - pdf.py - 56 - Temporary directory created at C:\Users\SosoT\AppData\Local\Temp\tmp_dppijl2
+2023-09-17 02:38:46,944 - pdfReader - INFO - pdf.py - 58 - Reading PDF from C:\Users\SosoT\OneDrive\Desktop\pdf_files\Meta_#HE9D4T3TC2_09-06-2023_$900.pdf
+2023-09-17 02:38:46,944 - pdfReader - INFO - pdf_to_image.py - 79 - start reading images from pdf file to save it as a image
+2023-09-17 02:38:46,944 - pdfReader - INFO - pdf_to_image.py - 56 - start reading pdf file:C:\Users\SosoT\OneDrive\Desktop\pdf_files\Meta_#HE9D4T3TC2_09-06-2023_$900.pdf
+2023-09-17 02:38:46,945 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:0
+2023-09-17 02:38:46,990 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:0
+2023-09-17 02:38:46,990 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmp_dppijl2/image0.jpg
+2023-09-17 02:38:47,251 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:1
+2023-09-17 02:38:47,316 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:1
+2023-09-17 02:38:47,316 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmp_dppijl2/image1.jpg
+2023-09-17 02:38:47,575 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:2
+2023-09-17 02:38:47,638 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:2
+2023-09-17 02:38:47,638 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmp_dppijl2/image2.jpg
+2023-09-17 02:38:47,904 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:3
+2023-09-17 02:38:47,959 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:3
+2023-09-17 02:38:47,960 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmp_dppijl2/image3.jpg
+2023-09-17 02:38:48,217 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:4
+2023-09-17 02:38:48,276 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:4
+2023-09-17 02:38:48,276 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmp_dppijl2/image4.jpg
+2023-09-17 02:38:48,536 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:5
+2023-09-17 02:38:48,592 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:5
+2023-09-17 02:38:48,592 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmp_dppijl2/image5.jpg
+2023-09-17 02:38:48,849 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:6
+2023-09-17 02:38:48,908 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:6
+2023-09-17 02:38:48,908 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmp_dppijl2/image6.jpg
+2023-09-17 02:38:49,167 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:7
+2023-09-17 02:38:49,214 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:7
+2023-09-17 02:38:49,214 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmp_dppijl2/image7.jpg
+2023-09-17 02:38:49,466 - pdfReader - INFO - pdf.py - 63 - 8 images will be processed.
+2023-09-17 02:39:00,364 - pdfReader - INFO - pdf.py - 66 - pdf processing was done
+2023-09-17 02:39:00,366 - pdfReader - INFO - pdf.py - 69 - Removing temporary directory C:\Users\SosoT\AppData\Local\Temp\tmp_dppijl2
+2023-09-17 02:39:21,216 - pdfReader - INFO - pdf.py - 43 - Started reading PDF and saving as HTML.
+2023-09-17 02:39:21,217 - pdfReader - INFO - pdf.py - 56 - Temporary directory created at C:\Users\SosoT\AppData\Local\Temp\tmpnz5t0yw0
+2023-09-17 02:39:21,217 - pdfReader - INFO - pdf.py - 58 - Reading PDF from C:\Users\SosoT\OneDrive\Desktop\pdf_files\Meta_#HE9D4T3TC2_09-06-2023_$900.pdf
+2023-09-17 02:39:21,217 - pdfReader - INFO - pdf_to_image.py - 79 - start reading images from pdf file to save it as a image
+2023-09-17 02:39:21,217 - pdfReader - INFO - pdf_to_image.py - 56 - start reading pdf file:C:\Users\SosoT\OneDrive\Desktop\pdf_files\Meta_#HE9D4T3TC2_09-06-2023_$900.pdf
+2023-09-17 02:39:21,218 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:0
+2023-09-17 02:39:21,290 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:0
+2023-09-17 02:39:21,290 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpnz5t0yw0/image0.jpg
+2023-09-17 02:39:21,633 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:1
+2023-09-17 02:39:21,706 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:1
+2023-09-17 02:39:21,706 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpnz5t0yw0/image1.jpg
+2023-09-17 02:39:22,071 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:2
+2023-09-17 02:39:22,152 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:2
+2023-09-17 02:39:22,152 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpnz5t0yw0/image2.jpg
+2023-09-17 02:39:22,541 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:3
+2023-09-17 02:39:22,626 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:3
+2023-09-17 02:39:22,626 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpnz5t0yw0/image3.jpg
+2023-09-17 02:39:23,013 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:4
+2023-09-17 02:39:23,100 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:4
+2023-09-17 02:39:23,100 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpnz5t0yw0/image4.jpg
+2023-09-17 02:39:23,376 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:5
+2023-09-17 02:39:23,434 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:5
+2023-09-17 02:39:23,434 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpnz5t0yw0/image5.jpg
+2023-09-17 02:39:23,706 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:6
+2023-09-17 02:39:23,768 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:6
+2023-09-17 02:39:23,768 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpnz5t0yw0/image6.jpg
+2023-09-17 02:39:24,055 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:7
+2023-09-17 02:39:24,156 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:7
+2023-09-17 02:39:24,157 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpnz5t0yw0/image7.jpg
+2023-09-17 02:39:24,620 - pdfReader - INFO - pdf.py - 63 - 8 images will be processed.
+2023-09-17 02:39:37,316 - pdfReader - INFO - pdf.py - 66 - pdf processing was done
+2023-09-17 02:39:37,318 - pdfReader - INFO - pdf.py - 69 - Removing temporary directory C:\Users\SosoT\AppData\Local\Temp\tmpnz5t0yw0
