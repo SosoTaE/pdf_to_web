@@ -3719,3 +3719,73 @@
 2023-09-17 02:39:24,620 - pdfReader - INFO - pdf.py - 63 - 8 images will be processed.
 2023-09-17 02:39:37,316 - pdfReader - INFO - pdf.py - 66 - pdf processing was done
 2023-09-17 02:39:37,318 - pdfReader - INFO - pdf.py - 69 - Removing temporary directory C:\Users\SosoT\AppData\Local\Temp\tmpnz5t0yw0
+2023-09-18 02:06:17,933 - pdfReader - ERROR - emailer.py - 29 - Could not connect to server: b'-ERR LOGIN failed'
+2023-09-18 02:06:17,934 - pdfReader - INFO - emailer.py - 36 - start reconnecting to server
+2023-09-18 02:06:18,885 - pdfReader - ERROR - emailer.py - 29 - Could not connect to server: b'-ERR LOGIN failed'
+2023-09-18 02:06:19,798 - pdfReader - ERROR - emailer.py - 29 - Could not connect to server: b'-ERR LOGIN failed'
+2023-09-18 02:06:20,696 - pdfReader - ERROR - emailer.py - 29 - Could not connect to server: b'-ERR LOGIN failed'
+2023-09-18 02:06:21,593 - pdfReader - ERROR - emailer.py - 29 - Could not connect to server: b'-ERR LOGIN failed'
+2023-09-18 02:06:22,490 - pdfReader - ERROR - emailer.py - 29 - Could not connect to server: b'-ERR LOGIN failed'
+2023-09-18 02:06:43,750 - pdfReader - ERROR - emailer.py - 30 - Could not connect to server: b'-ERR LOGIN failed'
+2023-09-18 02:06:43,750 - pdfReader - INFO - emailer.py - 37 - start reconnecting to server
+2023-09-18 02:06:44,669 - pdfReader - ERROR - emailer.py - 30 - Could not connect to server: b'-ERR LOGIN failed'
+2023-09-18 02:06:45,565 - pdfReader - ERROR - emailer.py - 30 - Could not connect to server: b'-ERR LOGIN failed'
+2023-09-18 02:07:06,589 - pdfReader - ERROR - emailer.py - 30 - Could not connect to server: b'-ERR Cannot connect to POP server 66.206.167.60 (66.206.167.60:110), connect error 10060'
+2023-09-18 02:07:27,641 - pdfReader - ERROR - emailer.py - 30 - Could not connect to server: b'-ERR Cannot connect to POP server 66.206.167.60 (66.206.167.60:110), connect error 10060'
+2023-09-18 02:08:10,956 - pdfReader - ERROR - emailer.py - 30 - Could not connect to server: b'-ERR Cannot connect to POP server 66.206.167.60 (66.206.167.60:110), connect error 10060'
+2023-09-18 02:08:10,957 - pdfReader - INFO - emailer.py - 37 - start reconnecting to server
+2023-09-18 02:08:32,006 - pdfReader - ERROR - emailer.py - 30 - Could not connect to server: b'-ERR Cannot connect to POP server 66.206.167.60 (66.206.167.60:110), connect error 10060'
+2023-09-18 02:08:53,055 - pdfReader - ERROR - emailer.py - 30 - Could not connect to server: b'-ERR Cannot connect to POP server 66.206.167.60 (66.206.167.60:110), connect error 10060'
+2023-09-18 02:09:14,098 - pdfReader - ERROR - emailer.py - 30 - Could not connect to server: b'-ERR Cannot connect to POP server 66.206.167.60 (66.206.167.60:110), connect error 10060'
+2023-09-18 02:09:35,147 - pdfReader - ERROR - emailer.py - 30 - Could not connect to server: b'-ERR Cannot connect to POP server 66.206.167.60 (66.206.167.60:110), connect error 10060'
+2023-09-18 02:09:56,185 - pdfReader - ERROR - emailer.py - 30 - Could not connect to server: b'-ERR Cannot connect to POP server 66.206.167.60 (66.206.167.60:110), connect error 10060'
+2023-09-18 02:10:57,896 - pdfReader - ERROR - emailer.py - 29 - Could not connect to server: b'-ERR Cannot connect to POP server 66.206.167.60 (66.206.167.60:110), connect error 10060'
+2023-09-18 02:10:57,897 - pdfReader - INFO - emailer.py - 36 - start reconnecting to server
+2023-09-18 02:11:18,939 - pdfReader - ERROR - emailer.py - 29 - Could not connect to server: b'-ERR Cannot connect to POP server 66.206.167.60 (66.206.167.60:110), connect error 10060'
+2023-09-18 02:11:39,990 - pdfReader - ERROR - emailer.py - 29 - Could not connect to server: b'-ERR Cannot connect to POP server 66.206.167.60 (66.206.167.60:110), connect error 10060'
+2023-09-18 02:12:36,827 - pdfReader - ERROR - emailer.py - 29 - Could not connect to server: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1006)
+2023-09-18 02:12:36,827 - pdfReader - INFO - emailer.py - 36 - start reconnecting to server
+2023-09-18 02:12:37,276 - pdfReader - ERROR - emailer.py - 29 - Could not connect to server: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1006)
+2023-09-18 02:12:37,732 - pdfReader - ERROR - emailer.py - 29 - Could not connect to server: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1006)
+2023-09-18 02:12:38,209 - pdfReader - ERROR - emailer.py - 29 - Could not connect to server: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1006)
+2023-09-18 02:12:38,665 - pdfReader - ERROR - emailer.py - 29 - Could not connect to server: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1006)
+2023-09-18 02:12:39,121 - pdfReader - ERROR - emailer.py - 29 - Could not connect to server: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1006)
+2023-09-18 02:12:46,364 - pdfReader - ERROR - emailer.py - 29 - Could not connect to server: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1006)
+2023-09-18 02:12:46,364 - pdfReader - INFO - emailer.py - 36 - start reconnecting to server
+2023-09-18 02:12:46,822 - pdfReader - ERROR - emailer.py - 29 - Could not connect to server: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1006)
+2023-09-18 02:12:47,281 - pdfReader - ERROR - emailer.py - 29 - Could not connect to server: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1006)
+2023-09-18 02:12:47,734 - pdfReader - ERROR - emailer.py - 29 - Could not connect to server: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1006)
+2023-09-18 02:12:48,189 - pdfReader - ERROR - emailer.py - 29 - Could not connect to server: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1006)
+2023-09-18 02:12:48,645 - pdfReader - ERROR - emailer.py - 29 - Could not connect to server: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1006)
+2023-09-18 02:28:24,811 - pdfReader - INFO - pdf.py - 43 - Started reading PDF and saving as HTML.
+2023-09-18 02:28:24,812 - pdfReader - INFO - pdf.py - 56 - Temporary directory created at C:\Users\SosoT\AppData\Local\Temp\tmpoi38hqp6
+2023-09-18 02:28:24,812 - pdfReader - INFO - pdf.py - 58 - Reading PDF from Meta_#HE9D4T3TC2_09-06-2023_$900.pdf
+2023-09-18 02:28:24,812 - pdfReader - INFO - pdf_to_image.py - 79 - start reading images from pdf file to save it as a image
+2023-09-18 02:28:24,812 - pdfReader - INFO - pdf_to_image.py - 56 - start reading pdf file:Meta_#HE9D4T3TC2_09-06-2023_$900.pdf
+2023-09-18 02:28:24,821 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:0
+2023-09-18 02:28:24,871 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:0
+2023-09-18 02:28:24,871 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpoi38hqp6/image0.jpg
+2023-09-18 02:28:25,126 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:1
+2023-09-18 02:28:25,183 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:1
+2023-09-18 02:28:25,183 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpoi38hqp6/image1.jpg
+2023-09-18 02:28:25,452 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:2
+2023-09-18 02:28:25,517 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:2
+2023-09-18 02:28:25,517 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpoi38hqp6/image2.jpg
+2023-09-18 02:28:25,781 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:3
+2023-09-18 02:28:25,838 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:3
+2023-09-18 02:28:25,839 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpoi38hqp6/image3.jpg
+2023-09-18 02:28:26,112 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:4
+2023-09-18 02:28:26,177 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:4
+2023-09-18 02:28:26,177 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpoi38hqp6/image4.jpg
+2023-09-18 02:28:26,453 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:5
+2023-09-18 02:28:26,513 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:5
+2023-09-18 02:28:26,514 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpoi38hqp6/image5.jpg
+2023-09-18 02:28:26,789 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:6
+2023-09-18 02:28:26,849 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:6
+2023-09-18 02:28:26,849 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpoi38hqp6/image6.jpg
+2023-09-18 02:28:27,112 - pdfReader - INFO - pdf_to_image.py - 40 - currently loading page:7
+2023-09-18 02:28:27,160 - pdfReader - INFO - pdf_to_image.py - 50 - currently getting page as a image page:7
+2023-09-18 02:28:27,160 - pdfReader - INFO - pdf_to_image.py - 52 - save image at directory:C:\Users\SosoT\AppData\Local\Temp\tmpoi38hqp6/image7.jpg
+2023-09-18 02:28:27,410 - pdfReader - INFO - pdf.py - 63 - 8 images will be processed.
+2023-09-18 02:28:38,516 - pdfReader - INFO - pdf.py - 66 - pdf processing was done
+2023-09-18 02:28:38,518 - pdfReader - INFO - pdf.py - 69 - Removing temporary directory C:\Users\SosoT\AppData\Local\Temp\tmpoi38hqp6
